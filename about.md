@@ -15,5 +15,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: drdrr
+  content: drd
+  media:
+    image: "/uploads/2018/06/21/drone-photo.jpeg"
+    alt_text: drdrdr
 
 ---
